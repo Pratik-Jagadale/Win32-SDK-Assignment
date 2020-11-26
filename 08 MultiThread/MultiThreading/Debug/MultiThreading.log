@@ -1,0 +1,9 @@
+﻿  MultiThreading.cpp
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(71,7): warning C4551: function call missing argument list
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(75,7): warning C4551: function call missing argument list
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(79,7): warning C4551: function call missing argument list
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(99,44): error C2146: syntax error: missing ')' before identifier 'i'
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(99,45): error C2660: 'MessageBoxW': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : see declaration of 'MessageBoxW'
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(99,44): error C2146: syntax error: missing ';' before identifier 'i'
+E:\WinDev2020-090\Program\MultiThread\MultiThreading\MultiThreading.cpp(99,69): error C2059: syntax error: ')'
