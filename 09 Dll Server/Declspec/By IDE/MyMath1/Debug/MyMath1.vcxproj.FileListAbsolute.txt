@@ -1,0 +1,2 @@
+E:\Astromedicomp\WinDev2020-090\Program\DLL\Server\Declspec\By IDE\MyMath1\Debug\MyMath1.dll
+E:\Astromedicomp\WinDev2020-090\Program\DLL\Server\Declspec\By IDE\MyMath1\Debug\MyMath1.pdb
