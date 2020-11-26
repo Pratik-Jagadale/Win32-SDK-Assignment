@@ -1,0 +1,2 @@
+E:\WinDev2020-090\Program\Hello_World\Debug\Hello_World.exe
+E:\WinDev2020-090\Program\Hello_World\Debug\Hello_World.pdb
