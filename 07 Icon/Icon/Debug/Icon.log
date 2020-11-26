@@ -1,0 +1,5 @@
+﻿  Icon.cpp
+E:\WinDev2020-090\Program\Icon\Icon\Icon.cpp(63,6): warning C4101: 'hdc': unreferenced local variable
+E:\WinDev2020-090\Program\Icon\Icon\Icon.cpp(64,14): warning C4101: 'ps': unreferenced local variable
+E:\WinDev2020-090\Program\Icon\Icon\Icon.cpp(65,7): warning C4101: 'rc': unreferenced local variable
+  Icon.vcxproj -> E:\WinDev2020-090\Program\Icon\Icon\Debug\Icon.exe
