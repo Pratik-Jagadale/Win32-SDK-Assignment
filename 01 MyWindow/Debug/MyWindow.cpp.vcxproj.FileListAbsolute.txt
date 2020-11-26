@@ -1,0 +1,4 @@
+E:\WinDev2020-090\Program\MyWindow.cpp\Debug\MyWindow.cpp.exe
+E:\WinDev2020-090\Program\MyWindow.cpp\Debug\MyWindow.cpp.pdb
+E:\Astromedicomp\WinDev2020-090\Program\01 MyWindow\Debug\MyWindow.cpp.exe
+E:\Astromedicomp\WinDev2020-090\Program\01 MyWindow\Debug\MyWindow.cpp.pdb
