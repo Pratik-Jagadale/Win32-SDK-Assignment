@@ -1,0 +1,2 @@
+E:\WinDev2020-090\Program\Timer\Debug\Timer.exe
+E:\WinDev2020-090\Program\Timer\Debug\Timer.pdb
